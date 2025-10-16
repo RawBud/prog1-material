@@ -10,7 +10,6 @@ import "fmt"
 func Fizz() {
 	//fmt.Println("FizzBuzz")
 	for i := 1; i <= 30; i++ {
-		fmt.Println(i)
 		//wenn i durch 3 und 5 teilbar ist, gib "fizzbuzz" aus
 		if i%3 == 0 && i%5 == 0 {
 			fmt.Println("fizzbuzz")
