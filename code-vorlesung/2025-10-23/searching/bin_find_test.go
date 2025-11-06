@@ -13,7 +13,7 @@ func ExampleBinFind1() {
 
 	// Output:
 	// 0
-	// 7
+	// 6
 	// 4
 	// 3
 }
